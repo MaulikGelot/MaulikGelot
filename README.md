@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 - 🔭  I'm passionate about building efficient and scalable solutions for enterprises.
 - 🌱  Currently, I’m looking to collaborate on projects that create a meaningful impact.
 - 💬  Ask me about Software Development, Performance Engineering, Asynchronous Communication, Multithreading, Memory Management, and anything tech-related!
-- 📫  How to reach me: [gelotmaulik007@gmail.com](mailto:gelotmaulik007@gmail.com)
+- 📫  How to reach me: [gelotmaulik007@gmail.com](mailto:gelotmaulik467@gmail.com)
 
    
 ## 🚀 Connect with Me
